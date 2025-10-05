@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/CosmicAura/", // 👈 IMPORTANT: match your repo name
+  base: "/CosmicAura/", 
 
   server: {
     host: "::",
