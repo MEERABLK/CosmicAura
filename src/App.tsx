@@ -13,7 +13,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-<BrowserRouter basename="/cosmic-aura">
+<BrowserRouter basename="/CosmicAura">
 
         <Routes>
           <Route path="/" element={<Index />} />
